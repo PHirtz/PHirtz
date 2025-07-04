@@ -1,4 +1,4 @@
-# 👋 Salut, moi c’est [Pauline] !
+# 👋 Salut, moi c’est Pauline !
 
 🎓 Développeuse Web en formation chez [O'Clock](https://oclock.io)  
 💡 Passionnée par le **frontend moderne**, l’**expérience utilisateur** et l’**intelligence artificielle**  
