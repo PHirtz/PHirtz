@@ -37,14 +37,13 @@ Projet collaboratif réalisé en formation : développement d’un blog en Node.
 **Stack utilisée :**  
 - ⚙️ **Node.js**, **Express.js**  
 - 🖥️ **EJS** (moteur de templates)  
-- 🗄️ Base de données SQL (modèle MVC)
 
 > 🔗 [Lien vers le repo](https://github.com/O-clock-Berlin/E04-SB02_oblog-PHirtz)
 
 ---
 
 ### 💬 Ghibliotheque
-Un site de présentation d'animé du studio Ghibli avec back-end Express & EJS  
+Un site de présentation d'animé du studio Ghibli avec back-end Node.js Express & EJS  
 > 🔗 [Lien vers le repo](https://github.com/O-clock-Berlin/SB02E01_Ghibliotheque-PHirtz)
 
 ---
