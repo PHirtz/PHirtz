@@ -43,9 +43,9 @@ Projet collaboratif réalisé en formation : développement d’un blog en Node.
 
 ---
 
-### 💬 CynO'Clock
-Un site de présentation de chiots avec back-end Express & EJS  
-> 🔗 [Lien vers le repo](https://github.com/O-clock-Berlin/SB01E04-cyno-correction)
+### 💬 Ghibliotheque
+Un site de présentation d'animé du studio Ghibli avec back-end Express & EJS  
+> 🔗 [Lien vers le repo](https://github.com/O-clock-Berlin/SB02E01_Ghibliotheque-PHirtz)
 
 ---
 
