@@ -71,7 +71,7 @@ Un site de présentation d'animé du studio Ghibli avec back-end Node.js Express
 
 ## 📫 Me contacter
 
-- ✉️ [wutezi.pauline.ts2@gmail.com]
+- ✉️ [pauline@kamiicode.com]
 - 💼 [LinkedIn](https://www.linkedin.com/in/pauline-hirtz/)
 
 ---
